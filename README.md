@@ -1,2 +1,2 @@
 # trial
-this branch has some differences.
+merhaba benim ismim gamze. bu readme_edits branchinde yapildi
